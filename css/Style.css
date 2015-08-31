@@ -1,0 +1,111 @@
+.page{
+    width: 680px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+    background-color: white;
+    border: 4px inherit;
+}
+.page0{
+    width: 720px;
+    margin: auto;
+    background-color: white;
+}
+.al{
+    background-color: ghostwhite;
+    border-radius: 8px;
+    padding: 0% !important;
+    border: 1px solid #ddd;
+    line-height: 55px;
+    margin-left: 20px;
+    margin-top: 20px;
+    list-style-type: none;
+}
+}
+.titre{
+    text-align: center;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+}
+.nom{text-align: center;}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.nom1{
+    text-align: center;
+    margin-top: -40px;
+}
+.section{
+    margin-bottom: 70px;
+}
+.sec-gauche{
+    float: left;
+}
+.sec-droite{
+    margin-left: 250px;
+    margin-bottom: 25px;
+}
+strong{
+    font-size: 26px;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+h2{
+    font-size: 28px;
+    color: blue;
+    border-bottom: 3px solid #3388DD;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.poste{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+.sec-droite{
+    margin-left: 250px;
+    text-align: justify;
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px
+}
+.foncé{
+    font-weight: bold;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
+.sec-droite1{
+    margin-bottom: -36px;
+    margin-left: 250px;
+}
+.sec-gauche1{
+    margin-bottom: 37px;
+}
+.marge{
+    margin-left: 15px;
+}
+.table{
+    border: 3px solid red;
+}
+.hauteur{
+    margin-bottom: -175px;
+}
+.taille{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+body{
+    background-size: cover;
+}
